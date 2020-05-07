@@ -1,5 +1,9 @@
+/*
+
 Write the program using the following operators in JavaScript using JavaScript Editor
 a.	Arithmetic Operator
 b.	Comparison operator
 c.	Logical operator
 d.	Conditional Operator
+
+*/
