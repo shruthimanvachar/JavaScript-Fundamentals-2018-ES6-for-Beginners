@@ -1,0 +1,9 @@
+/*
+
+Write the program based on JavaScript objects and the following datatypes in JavaScript using JavaScript Editor
+a.	Boolean
+b.	Null
+c.	Undefined
+d.	Number
+
+*/
