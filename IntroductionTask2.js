@@ -1,0 +1,5 @@
+/*Write the code to perform with Alert and prompt and the following JavaScript Variables in JavaScript using JavaScript Editor
+
+a. Let
+b. Const
+*/
